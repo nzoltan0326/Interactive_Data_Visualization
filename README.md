@@ -3,6 +3,9 @@
 An interactive, production-style Streamlit dashboard built on the Superstore dataset,
 focused on data cleaning, advanced filtering, and insightful business visualizations.
 
+![Dashboard](vis1.png)
+
+
 ## 🚀 Features
 
 - End-to-end data cleaning with Pandas
